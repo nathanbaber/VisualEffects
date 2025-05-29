@@ -1,0 +1,7 @@
+*.cs text=auto
+*.shader text=auto
+*.mat text=text eol=lf
+*.prefab text=text eol=lf
+*.unity text=text eol=lf
+*.asset text=text eol=lf
+* text=auto
